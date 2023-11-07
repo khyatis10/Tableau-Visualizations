@@ -21,12 +21,12 @@ Data, Interactivity, Color, Annotation, Composition, Decision Making
 # TOPIC 2 - Financial Times
 
 Possible Questions to Answer with Analysis:
-• Which universities typically score better on research than teaching?
-• Which ACC universities generally did the best in these rankings?
-• Is there any noticeable pattern between the size of the school and how well they do in the rankings?
-• What do these rankings concentrate on? 
-• Should Virginia Tech pay significant attention to these rankings or not? Why? 
-• Which ACC universities might want to consider paying attention to these rankings? Why?
+1. Which universities typically score better on research than teaching?
+2. Which ACC universities generally did the best in these rankings?
+3. Is there any noticeable pattern between the size of the school and how well they do in the rankings?
+4. What do these rankings concentrate on? 
+5. Should Virginia Tech pay significant attention to these rankings or not? Why? 
+6. Which ACC universities might want to consider paying attention to these rankings? Why?
 
 Tableau Skills: 
 Bar in Bar Charts, Scatter Plots, Tree Maps, Sets, Data Types, Custom Color Palettes, Custom Shapes, Tooltip Charts, Filters, Editing Axes, Dashboards, Dashboard Layouts
